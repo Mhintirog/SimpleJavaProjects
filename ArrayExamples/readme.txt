@@ -1,0 +1,7 @@
+Some Simple Examples With Arrays.
+
+maxValue program: finds the max value of an array and its position. 
+ArrayExample: Create an array and prints it with differnt ways. 
+EqualArrays: Checks if arrays are Equal.
+Sum: Calculates the sum of all arguments provided by the user in command line.
+Rand2D: Creates a random 2D array.
