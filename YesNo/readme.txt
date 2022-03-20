@@ -1,0 +1,1 @@
+This code creates a Frame with two buttons one for YES and one for NO.
